@@ -1,2 +1,3 @@
 id,title,duration,startDate,endDate,location,superEvent,twitter,email
-example-event,My First Academic Event,P0T8H,2019-06-03,2019-06-03,"New York, USA",The Big Super Event,example_event,info@example.com
+sedis2020,"International Workshop on Semantic Digital Twins (SeDiS 2020) 
+",P0T8H,2020-05-31,2020-06-04,"Heraklion, Crete, Greece","16th European Semantic Web Conference (ESWC 2020)",example_event,info@example.com

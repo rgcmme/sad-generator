@@ -1,18 +1,18 @@
-<http://example.com/resources/Event/example-event> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/Event/example-event> <http://schema.org/name> "My First Academic Event".
-<http://example.com/resources/Event/example-event> <http://schema.org/duration> "P0T8H".
-<http://example.com/resources/Event/example-event> <http://schema.org/startDate> "2019-06-03".
-<http://example.com/resources/Event/example-event> <http://schema.org/endDate> "2019-06-03".
-<http://example.com/resources/Event/example-event> <http://schema.org/location> "New York, USA".
-<http://example.com/resources/Event/example-event> <http://schema.org/superEvent> "The Big Super Event".
-<http://example.com/resources/Event/example-event> <http://open.vocab.org/terms/twitter-id> "example_event".
-<http://example.com/resources/Event/example-event> <http://schema.org/email> "info@example.com".
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-11>.
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-29>.
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-04-12>.
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-06-03>.
-<http://example.com/resources/Event/example-event> <http://schema.org/organizer> <http://example.com/resources/Organizer/john-doe>.
-<http://example.com/resources/Event/example-event> <http://schema.org/organizer> <http://example.com/resources/Organizer/jane-doe>.
+<http://example.com/resources/Event/sedis2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://example.com/resources/Event/sedis2020> <http://schema.org/name> "International Workshop on Semantic Digital Twins (SeDiS 2020) \n".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/duration> "P0T8H".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/startDate> "2020-05-31".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/endDate> "2020-06-04".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/location> "Heraklion, Crete, Greece".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/superEvent> "16th European Semantic Web Conference (ESWC 2020)".
+<http://example.com/resources/Event/sedis2020> <http://open.vocab.org/terms/twitter-id> "example_event".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/email> "info@example.com".
+<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-11>.
+<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-29>.
+<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-04-12>.
+<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-06-03>.
+<http://example.com/resources/Event/sedis2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/john-doe>.
+<http://example.com/resources/Event/sedis2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/jane-doe>.
 <http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
 <http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/name> "Mapping based Knowledge Graph Generation".
 <http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
