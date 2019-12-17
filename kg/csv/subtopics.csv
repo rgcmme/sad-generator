@@ -1,15 +1,19 @@
 id,subtopic
-mapping-based-knowledge-graph-generation,Mapping languages for generating Knowledge Graph from legacy datasets
-mapping-based-knowledge-graph-generation,Approaches and techniques on (semi)automatically generate mappings
-mapping-based-knowledge-graph-generation,Approaches and techniques on collaborative mappings generation
-mapping-based-knowledge-graph-generation,Approaches and techniques on exploiting mappings for query answering
-mapping-based-knowledge-graph-generation,End User Interfaces (UI) for (collaborative) editing and viewing  for Knowledge Graphs building rules and management platforms in general
-tools-for-knowledge-graph-generation,Architectures for Knowledge Graph generation systems
-tools-for-knowledge-graph-generation,(Sustainable) workflows for Web scale Knowledge Graph generation & publishing
-methods-and-techniques-for-knowledge-graph-generation,Seamless (distributed) integration/interlinking from heterogeneous data sources
-methods-and-techniques-for-knowledge-graph-generation,Dynamic discovery and retrieval of data for KG generation
-methods-and-techniques-for-knowledge-graph-generation,"Quality, Provenance, privacy and trustworthiness of Linked Data generation"
-methods-and-techniques-for-knowledge-graph-generation,Knowledge Graph generation and publishing of streaming data at run-time
-methods-and-techniques-for-knowledge-graph-generation,Benchmarks for Knowledge Graphs generation and publishing
-lessons-learnt-in-use-and-experience,"Experience, lessons learnt and best practices for generating and publishing"
-lessons-learnt-in-use-and-experience,Negative results and in-use/applied descriptions
+t1,Semantic descriptions of digital twins and their context
+t1,Interaction with semantic digital twins
+t1,Synchronization between an entity and its semantic digital twin
+t1,Simulation and models of semantic digital twins
+t1,Validation of semantic digital twins
+t1,Analytics and visualization for semantic digital twins
+t1,Scalability of semantic digital twins
+t1,Self-awareness of semantic digital twins
+t1,Semantic digital twin ecosystems
+t1,Security and trust for semantic digital twins
+t1,Privacy and ethics for semantic digital twins
+t1,Semantic digital twins in industry
+t1,Semantic digital twins in construction
+t1,Semantic digital twins in health
+t1,Semantic digital twins in transport
+t1,Semantic digital twins in the energy sector
+t1,Semantic digital twins in smart cities
+t1,Semantic digital twins for people
