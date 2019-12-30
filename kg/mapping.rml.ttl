@@ -309,7 +309,7 @@
 :pm_27 rr:constant <http://schema.org/image>.
 :pom_27 rr:objectMap :om_27.
 :om_27 a rr:ObjectMap;
-    rr:template "http://localhost:8080/img/{photo}";
+    rr:template "img/{photo}";
     rr:termType rr:Literal.
 :pom_28 a rr:PredicateObjectMap.
 :map_organizers_0 rr:predicateObjectMap :pom_28.

@@ -1,102 +1,136 @@
-<http://example.com/resources/Event/sedis2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/Event/sedis2020> <http://schema.org/name> "International Workshop on Semantic Digital Twins (SeDiS 2020) \n".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/duration> "P0T8H".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/startDate> "2020-05-31".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/endDate> "2020-06-04".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/location> "Heraklion, Crete, Greece".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/superEvent> "16th European Semantic Web Conference (ESWC 2020)".
-<http://example.com/resources/Event/sedis2020> <http://open.vocab.org/terms/twitter-id> "example_event".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/email> "info@example.com".
-<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-11>.
-<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-29>.
-<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-04-12>.
-<http://example.com/resources/Event/sedis2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-06-03>.
-<http://example.com/resources/Event/sedis2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/john-doe>.
-<http://example.com/resources/Event/sedis2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/jane-doe>.
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/name> "Mapping based Knowledge Graph Generation".
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/name> "Tools for Knowledge Graph Generation".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/name> "Methods and Techniques for Knowledge Graph Generation".
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/name> "Lessons learnt, In Use and Experience".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Mapping languages for generating Knowledge Graph from legacy datasets".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on (semi)automatically generate mappings".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on collaborative mappings generation".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on exploiting mappings for query answering".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "End User Interfaces (UI) for (collaborative) editing and viewing  for Knowledge Graphs building rules and management platforms in general".
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/keyword> "Architectures for Knowledge Graph generation systems".
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/keyword> "(Sustainable) workflows for Web scale Knowledge Graph generation & publishing".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Seamless (distributed) integration/interlinking from heterogeneous data sources".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Dynamic discovery and retrieval of data for KG generation".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Quality, Provenance, privacy and trustworthiness of Linked Data generation".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Knowledge Graph generation and publishing of streaming data at run-time".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Benchmarks for Knowledge Graphs generation and publishing".
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Experience, lessons learnt and best practices for generating and publishing".
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Negative results and in-use/applied descriptions".
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://schema.org/name> "Sucy Jameson".
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://schema.org/memberOf> "Company #3".
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://schema.org/name> "Victoria Brell".
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://schema.org/memberOf> "Company #4".
-<http://example.com/resources/ImportantDates/2019-03-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-03-11> <http://schema.org/name> "Submission papers".
-<http://example.com/resources/ImportantDates/2019-03-11> <http://schema.org/startDate> "2019-03-11".
-<http://example.com/resources/ImportantDates/2019-03-11> <http://schema.org/description> "Submit your paper".
-<http://example.com/resources/ImportantDates/2019-03-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-03-29> <http://schema.org/name> "Notifications".
-<http://example.com/resources/ImportantDates/2019-03-29> <http://schema.org/startDate> "2019-03-29".
-<http://example.com/resources/ImportantDates/2019-03-29> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
-<http://example.com/resources/ImportantDates/2019-04-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-04-12> <http://schema.org/name> "Submission camera ready".
-<http://example.com/resources/ImportantDates/2019-04-12> <http://schema.org/startDate> "2019-04-12".
-<http://example.com/resources/ImportantDates/2019-04-12> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
-<http://example.com/resources/ImportantDates/2019-06-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-06-03> <http://schema.org/name> "Event".
-<http://example.com/resources/ImportantDates/2019-06-03> <http://schema.org/startDate> "2019-06-03".
-<http://example.com/resources/ImportantDates/2019-06-03> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
-<http://example.com/resources/Organizer/john-doe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/name> "John Doe".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/sameAs> "http://john.example.com".
-<http://example.com/resources/Organizer/john-doe> <http://open.vocab.org/terms/twitter-id> "john".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/memberOf> "Company #1".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/image> "http://localhost:8080/img/john.jpg".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/description> "The biography of John.".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/email> "john@example.com".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/jobTitle> "Engineer".
-<http://example.com/resources/Organizer/john-doe> <http://example.org/linkedin> "http://linkedin.com/in/john-doe".
-<http://example.com/resources/Organizer/jane-doe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/name> "Jane Doe".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/sameAs> "http://jane.example.com".
-<http://example.com/resources/Organizer/jane-doe> <http://open.vocab.org/terms/twitter-id> "jane".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/memberOf> "Company #2".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/image> "http://localhost:8080/img/jane.jpg".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/description> "The biography of Jane.".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/email> "jane@example.com".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/jobTitle> "Project Manager".
-<http://example.com/resources/Organizer/jane-doe> <http://example.org/linkedin> "https://www.linkedin.com/in/jane-doe".
-<http://example.com/resources/Article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
-<http://example.com/resources/Article/1> <http://schema.org/name> "My First Paper".
-<http://example.com/resources/Article/1> <http://schema.org/review> <http://example.com/review1>.
-<http://example.com/resources/Article/1> <http://example.com/paperType> "In-Use Paper".
-<http://example.com/resources/Article/1> <http://purl.org/dc/terms/creator> <http://example.com/resources/AuthorList/1>.
-<http://example.com/resources/Article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
-<http://example.com/resources/Article/2> <http://schema.org/name> "My Second Paper".
-<http://example.com/resources/Article/2> <http://schema.org/review> <http://example.com/review2>.
-<http://example.com/resources/Article/2> <http://example.com/paperType> "Full Research Paper".
-<http://example.com/resources/Article/2> <http://purl.org/dc/terms/creator> <http://example.com/resources/AuthorList/2>.
-<http://example.com/resources/AuthorList/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/co/List>.
-<http://example.com/resources/AuthorList/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group>.
-<http://example.com/resources/AuthorList/1> <http://purl.org/co/item> <http://example.com/resources/AuthorItem/ash-ketchum>.
-<http://example.com/resources/AuthorList/1> <http://purl.org/co/item> <http://example.com/resources/AuthorItem/misty>.
-<http://example.com/resources/AuthorList/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/co/List>.
-<http://example.com/resources/AuthorList/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group>.
-<http://example.com/resources/AuthorList/2> <http://purl.org/co/item> <http://example.com/resources/AuthorItem/brock>.
-<http://example.com/resources/AuthorList/2> <http://purl.org/co/item> <http://example.com/resources/AuthorItem/dennis>.
+<http://example.com/resources/Event/sedit2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/name> "International Workshop on Semantic Digital Twins (SeDiT 2020) \r\n".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/raul>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/john>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/grigoris>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/organizer> <http://example.com/resources/Organizer/carolina>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/duration> "P0T8H".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/startDate> "2020-05-31".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/endDate> "2020-06-04".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/location> "Heraklion, Crete, Greece".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/superEvent> "16th European Semantic Web Conference (ESWC 2020)".
+<http://example.com/resources/Event/sedit2020> <http://open.vocab.org/terms/twitter-id> "example_event".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/email> "rgarcia@fi.upm.es".
+<http://example.com/resources/Event/sedit2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2020-02-28>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2020-03-27>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2020-04-10>.
+<http://example.com/resources/Event/sedit2020> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2020-05-31>.
+<http://example.com/resources/Topic/t1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://example.com/resources/Topic/t1> <http://schema.org/name> "Semantics and digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic descriptions of digital twins and their context".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Interaction with semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Synchronization between an entity and its semantic digital twin".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Simulation and models of semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Validation of semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Analytics and visualization for semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Scalability of semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Self-awareness of semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twin ecosystems".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Security and trust for semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Privacy and ethics for semantic digital twins".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins in industry".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins in construction".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins in health".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins in transport".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins in the energy sector".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins in smart cities".
+<http://example.com/resources/Topic/t1> <http://schema.org/keyword> "Semantic digital twins for people".
+<http://example.com/resources/ProgramCommittee/pc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc1> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc1> <http://schema.org/name> "Sotiris Batsakis".
+<http://example.com/resources/ProgramCommittee/pc1> <http://schema.org/memberOf> "Technical University of Crete".
+<http://example.com/resources/ProgramCommittee/pc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc2> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc2> <http://schema.org/name> "Andrea Cimmino".
+<http://example.com/resources/ProgramCommittee/pc2> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http://example.com/resources/ProgramCommittee/pc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc3> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc3> <http://schema.org/name> "Pieter Pawels".
+<http://example.com/resources/ProgramCommittee/pc3> <http://schema.org/memberOf> "Eindhoven University of Technology".
+<http://example.com/resources/ProgramCommittee/pc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc4> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc4> <http://schema.org/name> "Mar&iacute;a Poveda-Villalón".
+<http://example.com/resources/ProgramCommittee/pc4> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http://example.com/resources/ProgramCommittee/pc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc5> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc5> <http://schema.org/name> "Ilias Tachmazidis".
+<http://example.com/resources/ProgramCommittee/pc5> <http://schema.org/memberOf> "University of Huddersfield".
+<http://example.com/resources/ProgramCommittee/pc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc6> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc6> <http://schema.org/name> "Alistair Duke".
+<http://example.com/resources/ProgramCommittee/pc6> <http://schema.org/memberOf> "BT Research".
+<http://example.com/resources/ProgramCommittee/pc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc7> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc7> <http://schema.org/name> "Maria Maleshkova".
+<http://example.com/resources/ProgramCommittee/pc7> <http://schema.org/memberOf> "University of Bonn".
+<http://example.com/resources/ProgramCommittee/pc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc8> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc8> <http://schema.org/name> "Marko Grobelnik".
+<http://example.com/resources/ProgramCommittee/pc8> <http://schema.org/memberOf> "JSI".
+<http://example.com/resources/ProgramCommittee/pc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc9> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc9> <http://schema.org/name> "York Sure-Vetter".
+<http://example.com/resources/ProgramCommittee/pc9> <http://schema.org/memberOf> "Karlsruhe Institute of Technology".
+<http://example.com/resources/ProgramCommittee/pc10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/ProgramCommittee/pc10> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
+<http://example.com/resources/ProgramCommittee/pc10> <http://schema.org/name> "Luis-Daniel Ibañez".
+<http://example.com/resources/ProgramCommittee/pc10> <http://schema.org/memberOf> "University of Southampton".
+<http://example.com/resources/ImportantDates/2020-02-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://example.com/resources/ImportantDates/2020-02-28> <http://schema.org/name> "Submission papers".
+<http://example.com/resources/ImportantDates/2020-02-28> <http://schema.org/startDate> "2020-02-28".
+<http://example.com/resources/ImportantDates/2020-02-28> <http://schema.org/description> "Submit your paper.".
+<http://example.com/resources/ImportantDates/2020-03-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://example.com/resources/ImportantDates/2020-03-27> <http://schema.org/name> "Notifications".
+<http://example.com/resources/ImportantDates/2020-03-27> <http://schema.org/startDate> "2020-03-27".
+<http://example.com/resources/ImportantDates/2020-03-27> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
+<http://example.com/resources/ImportantDates/2020-04-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://example.com/resources/ImportantDates/2020-04-10> <http://schema.org/name> "Submission camera ready".
+<http://example.com/resources/ImportantDates/2020-04-10> <http://schema.org/startDate> "2020-04-10".
+<http://example.com/resources/ImportantDates/2020-04-10> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
+<http://example.com/resources/ImportantDates/2020-05-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://example.com/resources/ImportantDates/2020-05-31> <http://schema.org/name> "Event".
+<http://example.com/resources/ImportantDates/2020-05-31> <http://schema.org/startDate> "2020-05-31".
+<http://example.com/resources/ImportantDates/2020-05-31> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
+<http://example.com/resources/Organizer/raul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/Organizer/raul> <http://schema.org/name> "ARaúl García-Castro".
+<http://example.com/resources/Organizer/raul> <http://schema.org/sameAs> "http://garcia-castro.com".
+<http://example.com/resources/Organizer/raul> <http://open.vocab.org/terms/twitter-id> "rgcmme".
+<http://example.com/resources/Organizer/raul> <http://schema.org/memberOf> "UPM".
+<http://example.com/resources/Organizer/raul> <http://schema.org/image> "img/Raul.jpg".
+<http://example.com/resources/Organizer/raul> <http://schema.org/description> "Dr. Raúl García-Castro is Associate Professor at the Computer Science School at Universidad Politécnica de Madrid (UPM), Spain. After three years as a software engineer, since he graduated in Computer Science (2003) he has been working at UPM in the Ontology Engineering Group in a wide range of European and Spanish research projects as well as in different collaborations with the industry. His research focuses on ontological engineering and on ontology-based data and application integration. In 2008 he obtained a Ph.D. in Computer Science and Artificial Intelligence at the UPM with his thesis titled “Benchmarking Semantic Web technology”, which obtained the Ph.D. Extraordinary Award at UPM. Since 2015 he is a member of the Steering Committee of the International Conference on Knowledge Capture (K-CAP) and since 2012 he is Europe Liaison of the International Conference on Software Engineering and Knowledge Engineering (SEKE). He has authored more than 120 publications and regularly participates in the program committees of the conferences and workshops that are most relevant in his field and in standardization bodies such as W3C, ETSI or AENOR (he is a member of the W3C Advisory Committee). He has worked on the topic of semantic interoperability for IoT and on the standardisation of IoT ontologies in the W3C with the SSN ontology and in ETSI with the SAREF ontology. Besides, he has collaborated in the organization of 20 conferences and 9 workshops (taking different roles in them). ".
+<http://example.com/resources/Organizer/raul> <http://schema.org/email> "rgarcia@fi.upm.es".
+<http://example.com/resources/Organizer/raul> <http://schema.org/jobTitle> "Associate Professor".
+<http://example.com/resources/Organizer/raul> <http://example.org/linkedin> "https://www.linkedin.com/in/raulgarciacastro/".
+<http://example.com/resources/Organizer/john> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/Organizer/john> <http://schema.org/name> "BJohn Davies".
+<http://example.com/resources/Organizer/john> <http://schema.org/sameAs> "-".
+<http://example.com/resources/Organizer/john> <http://open.vocab.org/terms/twitter-id> "johndav".
+<http://example.com/resources/Organizer/john> <http://schema.org/memberOf> "BT".
+<http://example.com/resources/Organizer/john> <http://schema.org/image> "img/John.jpg".
+<http://example.com/resources/Organizer/john> <http://schema.org/description> "Prof John Davies is Chief Researcher in BT’s Research & Innovation department, where he leads a team focussed on Internet of Things technologies. He co-founded the ESWC conference series in 2004 and has contributed to a wide range of conferences and workshops in a variety of roles. His current research interests include the application of Internet of Things and semantic technologies to smart cities, smart transport, business intelligence and information integration. He has led a number of collaborative projects at national and European level and he co-wrote the Hypercat IoT standard. John has authored several technical books and written over 90 scientific publications. He is the inventor of several patents. He is a Fellow of the British Computer Society and a Chartered Engineer. John is a visiting professor at a number of universities and holds a PhD in Artificial Intelligence from University of Essex, UK.".
+<http://example.com/resources/Organizer/john> <http://schema.org/email> "john.nj.davies@bt.com".
+<http://example.com/resources/Organizer/john> <http://schema.org/jobTitle> "Chief Researcher".
+<http://example.com/resources/Organizer/john> <http://example.org/linkedin> "https://www.linkedin.com/in/john-davies-69983/".
+<http://example.com/resources/Organizer/grigoris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/name> "CGrigoris Antoniou".
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/sameAs> "-".
+<http://example.com/resources/Organizer/grigoris> <http://open.vocab.org/terms/twitter-id> "-".
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/memberOf> "University of Huddersfield".
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/image> "img/Grigoris.jpg".
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/description> "Grigoris Antoniou is Professor of Computer Science at the University of Huddersfield, UK. His research interests lie in semantic technologies, particularly knowledge representation and reasoning and semantics for big data, and its application to  e-health and smart cities / IoT. He has published over 200 technical papers in scientific journals and conferences. He is the author of three books with international publishers (MIT Press, Addison-Wesley); his book “A Semantic Web Primer” is internationally the standard textbook in the area, and has been translated to Japanese, Chinese, Korean, Spanish and Greek. His research has attracted over 11.000 citations. He is a member of editorial boards of journals including Artificial Intelligence Journal, and has organised a number of conferences and workshops (including being PC Co-Chair of ESWC 2010 and General Chair of ESWC 2011). He has led a number of national and international research projects, including a research collaboration with British Telecom on semantic IoT data platforms. He is a Fellow of the European Association for Artificial Intelligence.".
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/email> "G.Antoniou@hud.ac.uk".
+<http://example.com/resources/Organizer/grigoris> <http://schema.org/jobTitle> "Professor".
+<http://example.com/resources/Organizer/grigoris> <http://example.org/linkedin> "https://www.linkedin.com/in/grigoris-antoniou-9565b8/".
+<http://example.com/resources/Organizer/carolina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://example.com/resources/Organizer/carolina> <http://schema.org/name> "DCarolina Fortuna".
+<http://example.com/resources/Organizer/carolina> <http://schema.org/sameAs> "https://carolinafortuna.com/".
+<http://example.com/resources/Organizer/carolina> <http://open.vocab.org/terms/twitter-id> "-".
+<http://example.com/resources/Organizer/carolina> <http://schema.org/memberOf> "JSI".
+<http://example.com/resources/Organizer/carolina> <http://schema.org/image> "img/Carolina.jpg".
+<http://example.com/resources/Organizer/carolina> <http://schema.org/description> "Carolina Fortuna is a Senior Research Fellow at the Jozef Stefan Institute. She works on understanding and improving wireless and sensor networks using artificial intelligence technologies. She has participated in multiple collaborative research projects, taking leadership roles in several. Carolina received her PhD in 2013 in Slovenia, was a postdoctoral research associate at Ghent University 2014-2015 in Belgium and a visiting researcher at Stanford University, USA in 2017. She has co-authored over 50 peer-reviewed publications and gained industry insight by working with Bloomberg LP (New York) and Siemens PSE (Romania).".
+<http://example.com/resources/Organizer/carolina> <http://schema.org/email> "carolina.fortuna@ijs.si".
+<http://example.com/resources/Organizer/carolina> <http://schema.org/jobTitle> "Senior Research Fellow".
+<http://example.com/resources/Organizer/carolina> <http://example.org/linkedin> "https://www.linkedin.com/in/carolina-fortuna-077a9/".
 <http://example.com/resources/AuthorItem/ash-ketchum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/co/ListItem>.
 <http://example.com/resources/AuthorItem/ash-ketchum> <http://purl.org/co/index> "1".
 <http://example.com/resources/AuthorItem/ash-ketchum> <http://purl.org/co/itemContent> <http://example.com/resources/Author/ash-ketchum>.
